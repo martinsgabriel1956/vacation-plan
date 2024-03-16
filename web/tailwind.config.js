@@ -20,7 +20,18 @@ module.exports = {
       colors: {
         primary: "",
         "card-bg": "#F9F9F9",
-        bg: "#FFE8D6",
+        bg: "#f9f5f1",
+        heading: "#AB7D5F",
+        text: "#3a2d22",
+        input: "#d7a37e",
+        green: "#79a456",
+      },
+      backgroundImage: {
+        "hero-img":
+          "url('https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
+      },
+      fontFamily: {
+        default: "'Spinnaker', sans-serif",
       },
       keyframes: {
         "accordion-down": {
